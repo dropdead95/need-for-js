@@ -1,0 +1,12 @@
+.hide {
+  display: none;
+}
+.start {
+  cursor: pointer;
+}
+.car {
+  width: 200px;
+  height: 200px;
+  background: url("images/car.png") transparent center / contain no-repeat;
+  transform: rotate(90deg);
+}
